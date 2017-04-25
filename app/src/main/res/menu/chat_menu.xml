@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/viewcontact"
+        android:title="View contact" />
+    <item
+        android:id="@+id/media"
+        android:title="Media" />
+    <item
+        android:id="@+id/search"
+        android:title="Search" />
+    <item
+        android:id="@+id/mute"
+        android:title="Mute" />
+    <item
+        android:id="@+id/wallpaper"
+        android:title="Wallpaper" />
+    <item
+        android:id="@+id/logout"
+        android:icon="@mipmap/ic_launcher_round"
+        android:title="Logout" />
+    <item
+        android:id="@+id/more"
+        android:title="More" />
+    <item
+        android:id="@+id/attach"
+        android:icon="@drawable/ic_attach_file_white_24dp"
+        app:showAsAction="always"
+        android:visible="true"
+        android:title="Attach" />
+    <item
+        android:id="@+id/video"
+        android:icon="@drawable/ic_video_call_white_24dp"
+        app:showAsAction="always"
+        android:visible="true"
+        android:title="Video" />
+    <item
+        android:id="@+id/call"
+        android:icon="@drawable/ic_call_white_24dp"
+        app:showAsAction="always"
+        android:visible="true"
+        android:title="Call" />
+
+
+</menu>

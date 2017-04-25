@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "879720444904",
+    "firebase_url": "https://chat-caca2.firebaseio.com",
+    "project_id": "chat-caca2",
+    "storage_bucket": "chat-caca2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879720444904:android:faa5f299143c8452",
+        "android_client_info": {
+          "package_name": "sushantkumarjha.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879720444904-sfovcrfmk37sm36bvcob77tsae2ggdt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sushantkumarjha.chatapp",
+            "certificate_hash": "a9d427ddd000e65a4c7cb4a5b856dc2b5e0cd64a"
+          }
+        },
+        {
+          "client_id": "879720444904-9erlmb9id6rk1ar2bgnaoejug940qtje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5sK1PaIzKwh_C6hxjWRV7TEWImHkrKvM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879720444904-9erlmb9id6rk1ar2bgnaoejug940qtje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
